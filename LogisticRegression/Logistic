@@ -1,5 +1,5 @@
 This is the implementation of logistic regression from scratch using the libraries like numpy, pandas and many more.
 We also have in-built library for Logistic Regression.
 code_1.py -> implementation using Logistic Regression Formula.
-code_2.py
+code_2.py -> implementation of Logistic Regression from scratch.
 
